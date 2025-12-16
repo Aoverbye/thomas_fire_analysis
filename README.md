@@ -1,4 +1,4 @@
-# eds220-hwk4
+
 # False Color Imagery and The 2017 Thomas Fire
 ### By Amanda Overbye
 ## Goal:
